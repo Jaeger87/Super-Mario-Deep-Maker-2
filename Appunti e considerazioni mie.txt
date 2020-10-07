@@ -2,3 +2,5 @@ Livelli massimo 256*256?
 
 
 Tocca stare attenti a non superare il limite di 5 serpenti
+
+3D world scartiamoli

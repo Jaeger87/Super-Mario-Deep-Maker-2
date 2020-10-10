@@ -1,0 +1,24 @@
+background:
+
+
+Piattaforma Fungo
+Piattaforma fluttuante
+Ponte
+
+
+Non sovrapponibili:
+
+Terreno
+Spuntoni
+tubo
+blocco ghiacio
+blocco mattone
+blocco ?
+Moneta rosa
+
+
+Sovrapponibile con nemici
+
+Nuvola
+blocco nascosto
+monete

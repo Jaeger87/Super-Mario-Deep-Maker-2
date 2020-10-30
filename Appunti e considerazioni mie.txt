@@ -7,3 +7,9 @@ Tocca stare attenti a non superare il limite di 5 serpenti
 
 Non più di un sole
 Max 6 background uno sopra l'altro
+
+65535 = vuoto
+
+Strato musica
+Strato figli
+Strato figli musica

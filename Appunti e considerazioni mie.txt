@@ -13,3 +13,15 @@ Max 6 background uno sopra l'altro
 Strato musica
 Strato figli
 Strato figli musica
+
+Inizio 7 * 5 Non ci va nulla li
+Finale 10*2
+
+37 inizio/fine
+
+
+Forme strane: 
+
+	Fungo piattaforma
+	salita
+	

@@ -25,3 +25,11 @@ Forme strane:
 	Fungo piattaforma
 	salita
 	
+
+Rails abolite, troppe incognite.
+
+
+102760512  Salita destra
+103809088  Discesa normale
+100663360  Salita normale
+101711936  Discesa destra

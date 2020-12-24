@@ -29,7 +29,14 @@ Forme strane:
 Rails abolite, troppe incognite.
 
 
-102760512  Salita destra
-103809088  Discesa normale
-100663360  Salita normale
-101711936  Discesa destra
+102760512  Salita destra  32
+103809088  Discesa normale 48
+100663360  Salita normale  0
+101711936  Discesa destra  16
+
+pipes
+0 verso destra
+64 verso l'alto
+96 verso basso
+32 verso sinistra
+
